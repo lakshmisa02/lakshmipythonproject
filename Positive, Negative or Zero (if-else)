@@ -1,0 +1,9 @@
+num = int(input("Enter a number: ")) 
+
+if num >= 0: n 
+
+    print("Non-negative number") 
+
+else: 
+
+    print("Negative number") 
